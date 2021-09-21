@@ -696,6 +696,14 @@ footer img {
 }
 
 
+/* ICON INSTA */
+
+ion-icon {
+    color: #30b0e3;
+    height: 30px;
+    width: 30px;
+}
+
 /* PAGINA SOBRE MI */
 
 .titol {
